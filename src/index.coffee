@@ -515,4 +515,4 @@ class Payment
     return true
 
 module.exports = Payment
-global.Payment = Payment
+# global.Payment = Payment
